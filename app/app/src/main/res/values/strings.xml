@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Personal Finance Tracker</string>
+    <string-array name="categories_array">
+        <item>Food</item>
+        <item>Transportation</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Other</item>
+    </string-array>
+</resources>
